@@ -1,5 +1,5 @@
 # Neural_Network_Image_Explainability_Project
-Link to the [Blog][https://medium.com/@shakshi.sharma268/image-detection-with-ai-explainability-7bfbdc4aa21c]
+Link to the [[Blog](https://medium.com/@shakshi.sharma268/image-detection-with-ai-explainability-7bfbdc4aa21c)]
 
 Motivation
 
